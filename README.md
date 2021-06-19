@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ImageAPI](https://github.com/Siddharth3141/ImageAPI)
 
-- 🌱 I’m currently learning **Java, Tensorflow, Python**
+- 🌱 I’m currently learning **Java, Tensorflow, Pytorch**
 
 - 👯 I’m looking to collaborate on [GECCOI](https://github.com/GrandMoff100/Geccoi)
 
