@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddharth3141?tab=repositories](https://github.com/Siddharth3141?tab=repositories)
 
-- 💬 Ask me about **Flask, SQL**
+- 💬 Ask me about **Flask, Tensorflow, and Discord.py**
 
 - 📫 How to reach me **siddharth.radh@gmail.com**
 
