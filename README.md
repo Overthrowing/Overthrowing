@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Geccoi](https://github.com/GrandMoff100/Geccoi)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddharth3141?tab=repositories](https://github.com/Siddharth3141?tab=repositories)
 
