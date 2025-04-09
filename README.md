@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth3141&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth3141" /> </p>
 
-- 🔭 I’m currently working on [Geccoi](https://github.com/GrandMoff100/Geccoi)
-
-- 🌱 I’m currently learning **C++**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Siddharth3141?tab=repositories](https://github.com/Siddharth3141?tab=repositories)
-
-- 📫 How to reach me **siddharth.radh@gmail.com**
-
-- ⚡ Fun fact **I play the viola 🎻**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: siddharth.radh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
